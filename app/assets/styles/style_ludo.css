@@ -1,0 +1,13 @@
+.dice{
+    background-color: white;
+    color: blue;
+    border: solid;
+    border-color: rgba(0, 119, 255, 0.048);;
+    padding: .75rem 1.2rem;
+    }
+.btn{
+    color: white;
+    text-decoration: none;
+    padding: .75rem 1.2rem;
+    background-color: orange;
+}

@@ -1,0 +1,37 @@
+.large-hero {
+    position: relative;
+    color:rgb(21, 95, 179);
+}
+
+.lh_text-content{
+    position: absolute;
+    top: 40%;
+    left: 0%;
+    right: 20%;
+    text-align:center;
+    width: 100%;
+    font-family: "Times New Roman", Times, serif;
+    transform: translateY(-50%);
+    margin: 0;
+}
+
+.lh__title{
+    font-weight: 300;
+    margin: 0;
+    font-size: 1.8rem;
+
+    @media only screen and (max-width: 600px)
+    {
+        background-color: yellow;
+    }
+}
+
+.lh_element{
+    color:#FFF;
+    font-size: 1.2rem;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 19rem;
+     /*transform: translateX(160%);*/
+   
+}

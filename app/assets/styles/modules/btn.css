@@ -1,0 +1,19 @@
+.btn{
+    background-color: var(--main-color);
+    color: white;
+    text-decoration: none;
+    padding: .75rem 1.2rem;
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    left:auto;
+
+}
+
+.btn-orange{
+    color: white;
+    text-decoration: none;
+    padding: .75rem 1.2rem;
+    display: inline-block;
+    background-color: orange;
+}

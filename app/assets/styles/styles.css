@@ -1,0 +1,5 @@
+@import "normalize.css";
+@import "/app/assets/styles/base/global";
+@import "/app/assets/styles/modules/hero";
+@import "/app/assets/styles/modules/btn.css";
+@import "/node_modules/bootstrap/dist/css/bootstrap.css"
